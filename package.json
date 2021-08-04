@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeltaCoderr/KarmaBot.git"
+    "url": "git+https://github.com/DevRohit06/Panda-bot.git"
   },
   "author": "DevRohit06",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DeltaCoderr/KarmaBot/issues"
+    "url": "https://github.com/DevRohit06/Panda-bot/issues"
   },
-  "homepage": "https://github.com/DeltaCoderr/Karmabot#readme",
+  "homepage": "https://github.com/DevRohit06/Panda-bot#readme",
   "dependencies": {
     "nekos.life": "^2.0.7",
     "amethyste-api": "^1.1.4",
