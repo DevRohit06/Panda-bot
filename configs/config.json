@@ -3,11 +3,11 @@
     "embedcolor": "#FF4242", 
     "dev": "743173584935190620",       
 
-    "AME_API":  "f77cbd9aed6820bb3a098ef61e00467a410ba56921caeecba327689aa029be20f5e080c3db7cea324c27c13e4c14738b244f68bad6f499480afff6dcfb72aacc",
+    "AME_API":  "",
     "chat": {
         "url": "http://api.brainshop.ai/get",
-        "bid": "153696",
-        "key": "cPfpMBF2zwXAiTIY",
+        "bid": "",
+        "key": "",
         "uid": "Rohit"
     }  
 
