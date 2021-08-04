@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/DeltaCoderr/Karmabot#readme",
   "dependencies": {
+    "nekos.life": "^2.0.7",
     "amethyste-api": "^1.1.4",
     "anime-facts": "^1.2.5",
     "axios": "^0.21.0",
